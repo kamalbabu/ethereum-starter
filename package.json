@@ -1,0 +1,24 @@
+{
+  "name": "ethereum-starter",
+  "version": "1.0.0",
+  "description": "An Ethereum seed project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalbabu/ethereum-starter.git"
+  },
+  "keywords": [
+    "ethereum",
+    "smart",
+    "contracts"
+  ],
+  "author": "Kamal Babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalbabu/ethereum-starter/issues"
+  },
+  "homepage": "https://github.com/kamalbabu/ethereum-starter#readme"
+}
