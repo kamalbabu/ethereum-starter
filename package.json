@@ -4,7 +4,11 @@
   "description": "An Ethereum seed project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "contract:compile": "",
+    "contact:deploy":"",
+    "contract:test":"",
+    "app:compile":"",
+    "app:start":""
   },
   "repository": {
     "type": "git",
